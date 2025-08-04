@@ -131,15 +131,4 @@ These commands will help beginners navigate, manage files, install packages, and
 
 ---
 
-## ✅ **Contributing**
 
-Feel free to contribute more commands or improve explanations!  
-Just fork this repo, make your changes, and submit a pull request. 🚀
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-💡 **Happy Learning Linux!** 🐧✨
